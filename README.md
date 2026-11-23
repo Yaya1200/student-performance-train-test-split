@@ -143,8 +143,3 @@ python main.py
 
 **Reproducibility:** Using `random_state` to obtain the same random split when running the code again with the same data and settings.
 
-## Learning Path
-
-- Previous: Scikit-learn Estimators and Features (`X`) and Target (`y`).
-- Current: Training and Testing Datasets.
-- Next: `train_test_split()` in Depth.
